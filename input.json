@@ -1,0 +1,6 @@
+{
+	"bucket": "cloud.developing.toll-registry.vehicle-photos-eu-west-1-dev",
+	"key": "camera-2/vehicle-1.jpg",
+	"version-id": "latest",
+	"analysisStrategy": "BIG_BOX"
+}
