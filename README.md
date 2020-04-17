@@ -1,3 +1,3 @@
 # toll-registry
 
-!(images/toll-registry-arch.png)
+![Toll Registry Application Architecture](images/toll-registry-arch.png)
